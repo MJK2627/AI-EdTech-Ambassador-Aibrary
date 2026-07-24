@@ -35,7 +35,7 @@ Built on established learning theory — Vygotsky's Zone of Proximal Development
 
 ## Presentation
 
-📊 [`Aibrary Product overview & Suggestion.pptx`](sha256:2aa0a8e1beb9767e0e36f66b435cdf7eb5bfc609f7ed2f27e0249b8fb1627cd0) platform features and my recommendations, prepared for review.
+📊 [`Aibrary Product overview & Suggestion.pptx`](https://release-assets.githubusercontent.com/github-production-release-asset/1311502106/6d98b149-963c-456d-adc5-3f3261e0e6e9?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-25T00%3A48%3A32Z&rscd=attachment%3B+filename%3DAibrary.Product.overview.Suggestion.pptx&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-24T23%3A47%3A56Z&ske=2026-07-25T00%3A48%3A32Z&sks=b&skv=2018-11-09&sig=87Q9tGjCC4vGOmpNGy0kNhTtBhe5SXo368xBrZcE5N0%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NDkzNzE3NiwibmJmIjoxNzg0OTM2ODc2LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.rrfp55XErAb1osq--KytQUFGHUnMjDNUEwah7YHV9Ms&response-content-disposition=attachment%3B%20filename%3DAibrary.Product.overview.Suggestion.pptx&response-content-type=application%2Foctet-stream) platform features and my recommendations, prepared for review.
 
 ---
 *This repository documents my ambassador contributions at Aibrary for portfolio and reference purposes.*
