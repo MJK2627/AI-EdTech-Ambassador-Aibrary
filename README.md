@@ -35,7 +35,7 @@ Built on established learning theory — Vygotsky's Zone of Proximal Development
 
 ## Presentation
 
-📊 [`Aibrary Product overview & Suggestion.pptx`] — platform features and my recommendations, prepared for review.
+📊 [`Aibrary Product overview & Suggestion.pptx`](Aibrary%20product%20overview%20%26%20suggestion.pptx)— platform features and my recommendations, prepared for review.
 
 ---
 *This repository documents my ambassador contributions at Aibrary for portfolio and reference purposes.*
